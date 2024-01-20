@@ -3,6 +3,8 @@ A set of Jupyter notebooks for learning Cheminformatics.  The links below will o
 This way you can run the notebooks without having to install software on your computer. Of course, you can also just
 clone the repo and run these notebooks on your own computer. 
 
+This is a fork of: https://github.com/PatWalters/practical_cheminformatics_tutorials, but I have created a personal copy of the repo so I can actually see things on the contributions graph...
+
 #### Fundamentals
 1. [A Whirlwind Introduction to the RDKit for Cheminformatics](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/fundamentals/A_Whirlwind_Introduction_To_The_RDKit.ipynb)
 2. [A Brief Introduction to Pandas for Cheminformatics](https://colab.research.google.com/github/PatWalters/practical_cheminformatics_tutorials/blob/main/fundamentals/pandas_intro.ipynb)
